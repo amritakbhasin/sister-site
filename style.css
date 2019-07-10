@@ -1,0 +1,109 @@
+
+div { background-color: #FFFFF0}
+}
+
+h1 {color: #F08080; }
+
+h1 {
+  color: #AF3800;
+   font-size: 50px;
+   text-transform: uppercase;
+     letter-spacing: 3px;
+      text-shadow: 3px 2px blue;
+  text-align: center;
+   border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+   border-bottom: 5px solid red;
+   background-color: #A4B494;
+     text-decoration: underline;
+      font-style: italic;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+   border-top-style: dotted;
+       text-shadow: 3px 2px orange;
+  border-right-style: solid;
+   font-size: 25px;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+   border-bottom: 5px solid pink;
+      background-color: #EFD28D;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h3 {
+   border-top-style: dotted;
+       text-shadow: 1px 1px red;
+   font-size: 20px;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+   border-bottom: 5px solid blue;
+       background-color: #22AED1;
+         font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h4 {
+  border-top-style: dotted;
+  text-shadow: 1px 1px purple;
+  font-size: 20px;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+  border-bottom: 5px solid yellow;
+      background-color: #FBB7C0;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+h5 {
+  border-top-style: dotted;
+    text-shadow: 1px 1px darkblue;
+  font-size: 20px;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+  border-bottom: 5px solid purple;
+       background-color: #DAFEB7;
+         font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h6 {
+  border-top-style: dotted;
+    text-shadow: 1px 1px yellow;
+  font-size: 20px;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+  border-bottom: 5px solid green;
+      background-color: #EEE3AB;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+h7 {
+  border-top-style: dotted;
+    text-shadow: 1px 1px #00CFC1;
+  font-size: 20px;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+  border-bottom: 5px solid green;
+      background-color: #FE621D;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.auto {
+  height: 300px;
+}
+
+img {
+  height: 300px;
+  width: 250px;
+}
+
+
+.correct-ratio { object-fit: cover}
